@@ -25,6 +25,7 @@ public class Nearest_Greater_to_right {
 				  mv.add(stack.peek());
 			  }
 		 }
+	   stack.push(arr[i]);
 	   
    }
   
