@@ -28,7 +28,7 @@ public class Nearest_greater_to_left {
 				  mv.add(stack.peek());
 			  }
 		 }
-	   stack.push(arr[i]);
+	   
    }
   
   
